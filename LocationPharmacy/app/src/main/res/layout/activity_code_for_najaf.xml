@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CodeForNajaf">
+
+    <LinearLayout
+        android:layout_width="340dp"
+        android:layout_height="520dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintLeft_toLeftOf="@+id/imageView5"
+        app:layout_constraintRight_toRightOf="@+id/imageView5"
+        app:layout_constraintTop_toTopOf="@+id/imageView5"
+        app:layout_constraintVertical_bias="0.5">
+
+
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/imageView6"
+            android:layout_width="250dp"
+            android:layout_height="203dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:src="@drawable/codeimage2"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+            app:layout_constraintHorizontal_bias="0.506"
+            app:layout_constraintLeft_toLeftOf="@+id/imageView5"
+            app:layout_constraintRight_toRightOf="@+id/imageView5"
+            app:layout_constraintTop_toTopOf="@+id/imageView5"
+            app:layout_constraintVertical_bias="0.029999971" />
+
+        <TextView
+            android:layout_gravity="center"
+            android:id="@+id/textcodeforiraq"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/codeforiraqabout"
+            android:textColor="@color/colortext"
+            android:textSize="17sp"
+            android:padding="16dp"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+            app:layout_constraintDimensionRatio="h,1:1"
+            app:layout_constraintLeft_toLeftOf="@+id/imageView5"
+            app:layout_constraintRight_toRightOf="@+id/imageView5"
+            app:layout_constraintTop_toBottomOf="@+id/imageView6"
+            app:layout_constraintVertical_bias="0.74" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="347dp"
+        android:layout_height="523dp"
+        android:background="@drawable/btnstyle1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.502" />
+
+
+
+</android.support.constraint.ConstraintLayout>

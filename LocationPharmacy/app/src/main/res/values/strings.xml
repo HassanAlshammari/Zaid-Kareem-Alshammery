@@ -1,0 +1,48 @@
+<resources>
+    <string name="Title">Title</string>
+    <string name="app_name">الصيدليات الخافرة</string>
+    <string name="btnshowpharmacy1">عرض الصيدليات الخافرة</string>
+    <string name="managment">ادارة مواقع الصيدليات</string>
+    <string name="btnabout">عن التطبيق</string>
+    <string name="btnaddpharmacy">أضافة صيدلية </string>
+    <string name="textaddpharmacy">أضافة صيدلية جديدة</string>
+    <string name="textaddpharmacypassword">ادخل اسم المسؤول و الرمز السري</string>
+    <string name="edittextnamepharmacy">اسم الصيدلية</string>
+    <string name="edittextnameplace">مكان الصيدلية</string>
+    <string name="edittextdescription">وصف الصيدلية</string>
+    <string name="btnadd">أضافة</string>
+    <string name="A">#4141</string>
+    <string name="btnapplication">تطبيق الصيدليات الخافرة</string>
+    <string name="btnTeam">فريق العمل</string>
+    <string name="ok">موافق</string>
+    <string name="havepharmacy">اذا كان لديك صيدلية...</string>
+
+    <string name="Tutorial">
+و تريد اضافتها في هذا التطبيق
+اضغط ضغطاً مطولاً على مكان الصيدلية في الخريطة
+ثم ادخل اسم الصيدلية و مكانها ووصفها.
+</string>
+
+    <string name="btncodeforiraq">Code For Iraq</string>
+
+
+    <string name="version">الاصدار  1.0</string>
+    <string name="applicationabout">
+
+            تطبيق "الصيدليات الخافرة"
+يحتوي هذا التطبيق على عناوين الصيدليات الخافرة التي تكون مفتوحة خلال 24 ساعة فمن خلال هذا التطبيق يمكن لأي شخص زائر لمدينة معينة العثور على هذه صيدليات من خلال الخريطة الموجود داخل التطبيق وايضاً بالإمكان إضافة صيدليات أخرى خافرة مستقبلاً ليتم عرضها على الخريطة ايضا.
+        </string>
+
+    <string name="programminganddesgin">قام ببرمجه وتصميم هذا البرنامج</string>
+    <string name="abbas">عباس عبد الامير</string>
+    <string name="zaid">زيد كريم عبد الحسن</string>
+    <string name="zahraa">زهراء حسن</string>
+
+
+    <string name="codeforiraqabout">
+        مبادرة إنسانية غير ربحية تهدف الى خدمة المجتمع عن طريق البرمجة Programming. تعتبر "Code For IRAQ" مبادرة تعليمية حقيقية ترعى المهتمين بتعلم تصميم وبرمجة تطبيقات الهاتف الجوال ومواقع الانترنت وبرامج الحاسوب والشبكات والاتصالات ونظم تشغيل الحاسوب باستخدام التقنيات مفتوحة المصدر Open Source ، كما توفر لهم جميع الدروس التعليمية اللازمة وبشكل مجاني تماماً
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btnshowpharmacy">عرض الصيدليات</string>
+    <string name="Manage">ادارة الصيدليات</string>
+</resources>
