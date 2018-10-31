@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "1017119007641",
+    "firebase_url": "https://phacmacy.firebaseio.com",
+    "project_id": "phacmacy",
+    "storage_bucket": "phacmacy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017119007641:android:402090fe23238bbe",
+        "android_client_info": {
+          "package_name": "app.myapp.locationpharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017119007641-3472kdf09v2hvq3h726jh7pq1dhov1nq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.myapp.locationpharmacy",
+            "certificate_hash": "ee2d89cbbea5644271c2fadaf05e48df36abcfe0"
+          }
+        },
+        {
+          "client_id": "1017119007641-k9hmltcighehvt6dj7hfpfj6k130otq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4riEdYpdZRo9ZVfyLkV96UpuBP1muFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017119007641-k9hmltcighehvt6dj7hfpfj6k130otq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017119007641:android:8f00980b020c6c97",
+        "android_client_info": {
+          "package_name": "app.myapp.mylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017119007641-k51m29kqfojr0u5omr6kunabenv5r8c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.myapp.mylocation",
+            "certificate_hash": "ee2d89cbbea5644271c2fadaf05e48df36abcfe0"
+          }
+        },
+        {
+          "client_id": "1017119007641-k9hmltcighehvt6dj7hfpfj6k130otq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4riEdYpdZRo9ZVfyLkV96UpuBP1muFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017119007641-k9hmltcighehvt6dj7hfpfj6k130otq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017119007641:android:f0104c6111d0ecf8",
+        "android_client_info": {
+          "package_name": "codeforiraq.org.pharmacies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017119007641-fh2c3ekioa6omcf6i1lp1u8rk1j80t3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codeforiraq.org.pharmacies",
+            "certificate_hash": "3fbfe841256806e33bdc11850da83b168479a79b"
+          }
+        },
+        {
+          "client_id": "1017119007641-k9hmltcighehvt6dj7hfpfj6k130otq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4riEdYpdZRo9ZVfyLkV96UpuBP1muFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017119007641-k9hmltcighehvt6dj7hfpfj6k130otq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017119007641:android:454fb62d001c0ab0",
+        "android_client_info": {
+          "package_name": "com.example.najaf.locationpharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017119007641-jc2362qvbg6o5m9o364gnpa6kp1c7p1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.najaf.locationpharmacy",
+            "certificate_hash": "670bd58cfd33c5ce0e8fc1c2e64ce8b0ac3ced1e"
+          }
+        },
+        {
+          "client_id": "1017119007641-k9hmltcighehvt6dj7hfpfj6k130otq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4riEdYpdZRo9ZVfyLkV96UpuBP1muFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017119007641-k9hmltcighehvt6dj7hfpfj6k130otq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017119007641:android:b4780ed88f221775",
+        "android_client_info": {
+          "package_name": "com.example.zaidalshammery.phacmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017119007641-l0622spnb3t91scl51d4hbm6057f9va2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zaidalshammery.phacmacy",
+            "certificate_hash": "f9d3ee549605eb051968b2eba85a978ba278210c"
+          }
+        },
+        {
+          "client_id": "1017119007641-k9hmltcighehvt6dj7hfpfj6k130otq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4riEdYpdZRo9ZVfyLkV96UpuBP1muFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017119007641-k9hmltcighehvt6dj7hfpfj6k130otq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
