@@ -76,7 +76,7 @@ public class MapsActivity  extends FragmentActivity implements OnMapReadyCallbac
             SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map);
             mapFragment.getMapAsync(this);
             locationManager = (LocationManager) getSystemService(LOCATION_SERVICE);
-            mo = new MarkerOptions().position(new LatLng(32.243792, 44.765805)).title("My Current Location");
+            mo = new MarkerOptions().position(new LatLng(32.243792, 44.765805)).title("موقعي");
             if (Build.VERSION.SDK_INT >= 23 && !isPermissionGranted()) {
                 requestPermissions(PERMISSIONS, PERMISSION_ALL);
             } else requestLocation();
@@ -207,7 +207,7 @@ public class MapsActivity  extends FragmentActivity implements OnMapReadyCallbac
         {
             mMap = googleMap;
             marker =  mMap.addMarker(mo);
-            mMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);
+           // mMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);
 
             mMap.addMarker(new MarkerOptions().position(new LatLng(32.004561, 44.349051)).title("صيدلية المسلة ").snippet("النجف الاشرف")).showInfoWindow();
             mMap.addMarker(new MarkerOptions().position(new LatLng( 32.002000, 44.350155)).title("صيدلية الحرة").snippet("النجف الاشرف")).showInfoWindow();
